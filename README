@@ -1,0 +1,15 @@
+# My i3 configuration
+
+## i3wm
+
+- Color adjustment.
+- Volume control via keyboard.
+- DPI adjustment.
+- Run network manager, ibus.
+- Change Caps lock into Ctrl.
+
+
+## i3 status
+
+- Color adjustment
+- Show wireless , volumn battery, date
